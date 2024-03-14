@@ -1,1 +1,1 @@
-# bird-project
+# flappy (the bird)

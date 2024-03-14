@@ -1,0 +1,10 @@
+titulo: Super Flappy (The Bird)
+objetivo: pegar mais pontos o possivel sem morrer
+regras: nao tocar nos canos
+equilibrio: nao tem
+historia: um passaro estava voando quando derrepente aparece em uma tela 2d e tem que desviar de canos para ganhar pontos e sobreviver
+adptabilidade: cada tempo que passa o passaro fica mais rapido
+feedback: odio
+sorte x abilidade: sorte de os canos nao aparecem em sua cara e tenha abilidade para desviar deles
+pc: passaro
+npc: canos, moedas
